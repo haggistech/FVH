@@ -1,0 +1,1 @@
+This is an app i am playing with to get some experience and learn react native
